@@ -1,0 +1,173 @@
+.cooperation-center {
+    background-color: rgb(118, 203, 196);
+}
+.extension-education-center {
+    background-color: rgb(136, 180, 255);
+}
+.continuing-education-center {
+    background-color: rgb(89, 133, 208);
+}
+.service-center {
+    background-color: rgb(42, 82, 151);
+}
+.administration-center {
+    background-color: rgb(42, 151, 131);
+}
+.shanghai-shu {
+    background-color: rgb(19, 53, 107);
+}
+.header .function-link .text-center {
+    color: azure;
+    font-size: 20px;
+    font-weight: bold;
+}
+.header .navbar .nav-link {
+    color: #2e2e2e;
+}
+.function-link {
+    border-bottom: solid 0.3px #aeaeae;
+    padding-bottom: 0.5rem;
+}
+.side-nav-top {
+    background-color: rgb(0, 36, 67);
+    color: white;
+    border-radius: 20px;
+    padding: 1rem;
+}
+.side-nav-title {
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+}
+.side-nav-others {
+    font-size: 14px;
+    padding-left: 1rem;
+}
+.contact span {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: black;
+    padding: 0 10px;
+}
+.side-nav-noFB {
+    background-color: #345b96;
+    padding: 1rem 1rem 0 1em;
+}
+.accordion-button {
+    background-color: #345b96;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.accordion-body {
+    background-color: #8893a4;
+}
+.accordion .list-group-item {
+    background-color: #8893a4;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+.carousel-item {
+    height: 20rem;
+}
+.carousel-caption {
+    background-color: #2e2e2e;
+    opacity: 0.8;
+    width: 100%;
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    text-align: left;
+}
+.carousel-item .h3 {
+    padding-right: 2rem;
+}
+.direction {
+    font-size:14px;
+}
+.news-more {
+    float: right;
+    background-color: #fff;
+    color: rgb(0, 36, 67);
+}
+.title {
+    font-weight: bold;
+    color: rgb(0, 36, 67);
+    border-bottom: 1px solid #2e2e2e;
+    padding-bottom: 0.5rem;
+}
+.link-dark {
+    text-decoration:none;
+    font-weight: bold;
+}
+.list-group-item {
+    display: flex;
+}
+.news-list-body {
+    margin-left: 5rem;
+}
+.news-date {
+    position: absolute;
+    top: auto;
+    right: 12px;
+}
+.news-list-illus {
+    font-size: 14px;
+}
+.center-announce {
+    background-color: rgb(255, 200, 1);
+}
+.label {
+    padding: 0 0.5rem;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #fff;
+    height: 24px;
+}
+.academic-announce {
+    background-color: rgb(50, 58, 151);
+}
+.center-advanced {
+    background-color: rgb(50, 151, 94);
+}
+.schedule-date {
+    color: rgb(50, 93, 131);
+    margin-right: 1rem;
+    font-weight: bold;
+}
+.schedule {
+    border-bottom: 1px dotted #9c9c9c;
+    padding: 0.5rem 0;
+}
+.photo img {
+    width: 20rem;
+    height: auto;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #9c9c9c;
+}
+.footer-title {
+    text-align: center;
+    margin-right: 3rem;
+}
+.footer-address {
+    margin-right: 1rem;
+}
+.footer-time-text {
+    margin-right: 1rem;
+}
+.footer-time1 {
+    margin-right: 1rem;
+}
